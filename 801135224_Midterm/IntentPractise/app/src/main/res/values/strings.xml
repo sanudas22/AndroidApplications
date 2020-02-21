@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent Practise</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="click">Visit UNCC</string>
+    <string name="second_act_click">Goto 2nd Act</string>
+    <string name="back">Back</string>
+</resources>

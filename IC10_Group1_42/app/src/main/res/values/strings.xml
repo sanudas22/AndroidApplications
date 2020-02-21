@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IC10_Group1_42</string>
+    <string name="addMovie">Add Movie</string>
+    <string name="Edit">Edit</string>
+    <string name="delete">Delete Movie</string>
+    <string name="showbyyear">Show List by Year</string>
+    <string name="showbyrating">Show List by Rating</string>
+    <string name="description">Description:</string>
+    <string name="genre">Genre:</string>
+    <string name="rating">Rating:</string>
+    <string name="finish">Finish</string>
+    <string name="savechanges">Save Changes</string>
+    <string name="Hint">Select</string>
+    <string name="title">Title:</string>
+    <string name="MoviesByYear">Movies By Year</string>
+    <string name="year">Year</string>
+    <string name="imdb">IMDB:</string>
+    <string name="moviesByRating">Movies by Rating</string>
+</resources>
+

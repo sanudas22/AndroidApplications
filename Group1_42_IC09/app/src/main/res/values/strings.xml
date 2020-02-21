@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Group1_42_IC09</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signUpMain">Sign Up</string>
+    <string name="sendTo">Send to:</string>
+    <string name="hint">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="finish">Finish</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="choosepwd">Choose Password</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="sUp">Sign Up</string>
+    <string name="can">Cancel</string>
+</resources>

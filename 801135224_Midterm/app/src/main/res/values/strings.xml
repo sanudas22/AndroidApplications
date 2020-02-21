@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">801135224_Midterm</string>
+    <string name="text">Please select the city from the list below:</string>
+    <string name="forecast">Forecast</string>
+</resources>

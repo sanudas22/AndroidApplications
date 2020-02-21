@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group1_42_IC07</string>
+    <string name="song">Song</string>
+    <string name="limit">Limit:</string>
+    <string name="search">Search</string>
+    <string name="track_rating">Track Rating</string>
+    <string name="artist_rating">Artist Rating</string>
+    <string name="sortby">Sort by:</string>
+</resources>
